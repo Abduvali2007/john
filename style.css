@@ -1,0 +1,157 @@
+.Work p {
+  color: var(--Dark-Color, #21243d);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 17px;
+}
+.header{
+  margin-left: 1300px;
+  
+}
+.hero{
+  display: flex;
+  justify-content: space-around;
+}
+.view{
+  display: flex;
+  justify-content: space-around;
+}
+.blocks{
+  display: flex;
+  justify-content: space-around;
+}
+.hero-content button{
+  width: 208px;
+height: 47px;
+flex-shrink: 0;
+border-radius: 2px;
+background: var(--Primary, #FF6464);
+color: #FFF;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+/* SECTION2 */
+.container3 img {
+  width: 246px;
+  height: 180px;
+  border-radius: 6px;
+  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.container4 {
+  display: flex;
+  margin-top: 31px;
+}
+#Work2 h1 {
+  margin-left: 200px;
+  color: var(--Dark-Color, #21243d);
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 60px; /* 272.727% */
+}
+.Work2 {
+  gap: 100px;
+  margin-left: 18px;
+}
+.Work2 h1 {
+  position: relative;
+  right: 190px;
+  color: var(--Dark-Color, #21243d);
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.Work2 button {
+  width: 62px;
+  height: 25px;
+  border-radius: 16px;
+  background: #142850;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.Work2 input {
+  width: 374px;
+  height: 34px;
+  color: var(--Light, #8695a4);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  border: none;
+  margin-left: 26px;
+}
+.Work2 p {
+  color: var(--Dark-Color, #21243d);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 17px;
+}
+
+/* SECTION3 */
+.container4 img {
+  width: 246px;
+  height: 180px;
+  border-radius: 6px;
+  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.container5 {
+  display: flex;
+  margin-left: 197px;
+  margin-bottom: 31px;
+}
+#Work3 h1 {
+  margin-left: 200px;
+  color: var(--Dark-Color, #21243d);
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 60px; /* 272.727% */
+}
+.Work3 {
+  gap: 100px;
+  margin-left: 18px;
+}
+.Work3 h1 {
+  position: relative;
+  right: 190px;
+  color: var(--Dark-Color, #21243d);
+  font-family: Heebo;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.Work3 button {
+  width: 62px;
+  height: 25px;
+  border-radius: 16px;
+  background: #142850;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 900;
+}
+.Work3 input {
+  width: 374px;
+  height: 34px;
+  color: var(--Light, #8695a4);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  border: none;
+  margin-left: 26px;
+}
+.Work3 p {
+  color: var(--Dark-Color, #21243d);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 17px;
+}
+.icons{
+  margin-left: 800px;
+}
